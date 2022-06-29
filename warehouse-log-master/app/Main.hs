@@ -35,7 +35,7 @@ runProgram items messages = do
                     Nothing -> return 0
             agenctb <- prompt "Nama Agen: "        
             description <- prompt "Hasil VOC: "
-            newItems <- addNewItem items noInet name storage agenctb description
+            newItems <- addNewItem items noInet storage storage agenctb description
             parseLogItem newItems
             logMessage <- makeLogMessage (last newItems) "NEW"
             parseLogMessage logMessage

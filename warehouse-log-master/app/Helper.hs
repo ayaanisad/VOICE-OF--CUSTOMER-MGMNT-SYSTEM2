@@ -1,3 +1,4 @@
+{-# OPTIONS_GHC -Wno-noncanonical-monad-instances #-}
 module Helper where
 
 import Control.Monad (ap)
