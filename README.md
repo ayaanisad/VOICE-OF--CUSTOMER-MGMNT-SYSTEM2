@@ -10,3 +10,5 @@ Manajemen dapat mudah memantau hasil caring dan memudahkan Analisa Voice of Cust
 ![image](https://user-images.githubusercontent.com/81410898/176446736-042ebd79-cd55-4f2e-a08a-ce95cb81e9ab.png)
 ![image](https://user-images.githubusercontent.com/81410898/176457642-1e0250b3-4073-4d40-b17a-f40bca1a66a5.png)
 ![image](https://user-images.githubusercontent.com/81410898/176457821-3c890754-a348-489a-a8e2-010674d53da6.png)
+![image](https://user-images.githubusercontent.com/81410898/176459847-f46d33e5-e641-4d7b-8b3a-3c8697f9a87e.png)
+
