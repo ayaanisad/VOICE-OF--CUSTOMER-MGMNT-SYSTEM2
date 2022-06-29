@@ -1,17 +1,12 @@
-# Warehouse Logging Application
+# VOICE-OF--CUSTOMER-MGMNT-SYSTEM
+Banyaknya kendala agen CTB/OBC saat melakukan caring pelanggan baik melalui Reminding Call info tagihan/ kungjungan ke rumah pelanggan mengalami kendala tidak adanya integrasi data history hasil Caring oleh Agen yang lain.
+Agen kebingungan ketika ingin melakukan penginputan dan update hasil caring ketika akan dilakukan pengulangan call, ternyata sudah dilakukan oleh Agen lain di bulan sebelumnya.
+Dengan adanya system Voice of Customer System ini maka agen akan dengan mudah melakukan penginputan hasil call, melihat history kendala call sebelumnya, dan menambah hasil call pengulangan.
+Manajemen dapat mudah memantau hasil caring dan memudahkan Analisa Voice of Customer.
 
-<img src="picture/user_interface.png" alt="User interface" style="width: 80%;"/>
 
-A warehouse logging application to record all in and outs of goods. Created using Haskell, this application is targeted for staff that manages inventory at some warehouses.
-
-## Feature
-1. Record inventory into database log
-<img src="picture/items_log.png" alt="Database log" style="width: 80%;"/>
-2. Record inventory activity in a log (e.g restocking and taking inventory)
-<img src="picture/messages_log.png" alt="Message log" style="width: 80%;"/>
-
-## How to use
-1. Install GHC, cabal-install and haskell-language-server via [GHCup](https://www.haskell.org/ghcup/)
-2. Open terminal, and change directory to this project
-3. Run `$ cabal build`
-4. After it successfully built, run this project with `$ cabal run`
+![image](https://user-images.githubusercontent.com/81410898/176446650-dd7589e4-ea0b-4d2a-8752-b22085b7ecbb.png)
+![image](https://user-images.githubusercontent.com/81410898/176446696-63433562-7953-4f83-95c4-732fc95e627f.png)
+![image](https://user-images.githubusercontent.com/81410898/176446736-042ebd79-cd55-4f2e-a08a-ce95cb81e9ab.png)
+![image](https://user-images.githubusercontent.com/81410898/176446761-4737502a-7be8-4008-9d64-4c7edd950c87.png)
+![image](https://user-images.githubusercontent.com/81410898/176446775-70fcf20e-73f0-436d-894a-6d641b775096.png)
